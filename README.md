@@ -1,2 +1,2 @@
 # ProgramSimulatorNetwork
-Tôi đã cố gắng hết sức rồi
+Một giao diện viết bằng Java (Chưa có thuật toán)
