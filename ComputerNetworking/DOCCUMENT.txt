@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//        try  {
+//            MaskFormatter format = new MaskFormatter("###");
+//            numberField_pNP = new JFormattedTextField(format); 
+//        }
+//        catch (ParseException e)  {
+//            System.out.println("Error");
+//        }
+
+//        BufferedImage buff;
+//        try {
+//            buff = ImageIO.read(new File("img/message/96.png"));
+//            //buff = rotate(buff, Math.PI/3);
+//            ImageIcon icon = new ImageIcon(buff.getScaledInstance(buff.getWidth(), buff.getHeight(), BufferedImage.SCALE_SMOOTH));
+//            imageMessage.setIcon(icon);
+//            
+//        } catch (IOException ex) {
+//            Logger.getLogger(GraphicsNetworking.class.getName()).log(Level.SEVERE, null, ex);
+//        }
+        
+        
+        
+        
+        
